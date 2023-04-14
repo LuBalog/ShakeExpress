@@ -1,0 +1,11 @@
+@font-face{
+    font-family: Streetwear;
+    src: url(font/Streetwear.otf);
+}
+
+h1,h3,h4,h5,h6,span{
+    font-family: Streetwear;
+}
+p,h2,label,textarea,input,a,button{
+    font-family: 'Roboto Condensed', sans-serif;
+}
